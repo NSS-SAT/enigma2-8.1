@@ -44,4 +44,3 @@ dist_install_DATA = \
 	vn.png \
 	fy_NL.png \
 	yu.png
-

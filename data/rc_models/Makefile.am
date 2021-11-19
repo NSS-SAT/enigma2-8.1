@@ -14,4 +14,3 @@ dist_install_DATA = \
 	spycat.xml xpeedlx.xml et7000mini.png et7000mini.xml revo4k.xml sab.xml sh1.xml i55.xml qviart.xml \
 	gb7252.xml e4hd.xml edision2.xml edision3.xml edision4.xml hd60.xml lunix4k.xml multibox.xml viperslim.xml \
 	octagon.xml uclan.xml pulse.xml dual.xml
-	
