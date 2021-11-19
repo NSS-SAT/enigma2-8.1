@@ -8,4 +8,4 @@ dist_install_DATA = \\
 	it.png \
 	missing.png \
 	nl.png \
-	pt.png \
+	pt.png 
