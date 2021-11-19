@@ -1,1 +1,1 @@
-# enigma2-dev NSS-TEAM
+# enigma2-dream NSS-TEAM
