@@ -9,7 +9,7 @@ dist_install_DATA = \
 	andale.ttf \
 	DejaVuSans.ttf \
 	lcd.ttf \
-	md_khmurabi_10.ttf \
+	md_khmurabi_10.ttf 
 	nmsbd.ttf \
 	LiberationSans-Bold.ttf \
 	LiberationSans-BoldItalic.ttf \
