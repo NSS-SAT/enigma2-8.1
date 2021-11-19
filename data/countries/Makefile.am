@@ -4,7 +4,7 @@ dist_install_DATA = \\
 	de.png \
 	en.png \
 	es.png \
-	fr.png \\
+	fr.png \
 	it.png \
 	missing.png \
 	nl.png \
