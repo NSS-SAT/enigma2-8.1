@@ -3968,7 +3968,6 @@ msgstr "G"
 msgid "GUI Settings"
 msgstr "Impostazioni"
 
-
 msgid "GUI Skin"
 msgstr "Impostazioni Skin"
 

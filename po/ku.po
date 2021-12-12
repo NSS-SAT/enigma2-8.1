@@ -1,31 +1,38 @@
+# English translations for enigma2 package.
+# Copyright (C) 2012 THE enigma2'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2 package.
+# Automatically generated, 2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: enigma2\n"
+"Project-Id-Version: enigma2 Kurdish translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-17 22:15+0300\n"
-"PO-Revision-Date: \n"
-"Last-Translator: satdreamgr\n"
+"PO-Revision-Date: 2013-04-22 04:29+0330\n"
+"Last-Translator: dimili21\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: Kurdish\n"
+"X-Poedit-Country: IRAQ\n"
 
 msgid ""
 "\n"
 "After pressing OK, please wait!"
 msgstr ""
 "\n"
-"After pressing OK, please wait!"
+"Pay Ok bine bisekin!"
 
 msgid ""
 "\n"
 "Press OK on your remote control to continue."
 msgstr ""
 "\n"
-"Press OK on your remote control to continue."
+"Ji Kumanda pay OK bisekin."
 
 #, fuzzy
 msgid ""
@@ -92,7 +99,7 @@ msgstr ""
 
 #, fuzzy
 msgid " min"
-msgstr "%d min"
+msgstr "%d deqa"
 
 msgid " ms"
 msgstr " ms"
@@ -102,7 +109,7 @@ msgstr ""
 
 #, python-format
 msgid "%(freespace)s %(percent)s free disk space"
-msgstr "%(freespace)s %(percent)s free disk space"
+msgstr "%(freespace)s %(percent)s nav diké da vekiri"
 
 #, python-format
 msgid "%.1f° E"
@@ -181,12 +188,12 @@ msgstr[1] ""
 #, python-format
 msgid "%d file"
 msgid_plural "%d files"
-msgstr[0] "%d file"
-msgstr[1] "%d files"
+msgstr[0] ""
+msgstr[1] ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%d fps"
-msgstr "%d file"
+msgstr ""
 
 #, python-format
 msgid "%d hour"
@@ -206,7 +213,7 @@ msgstr ""
 
 #, python-format
 msgid "%d min"
-msgstr "%d min"
+msgstr "%d deqa"
 
 #, fuzzy, python-format
 msgid "%d minute"
@@ -216,7 +223,7 @@ msgstr[1] "%d minutes"
 
 #, python-format
 msgid "%d minutes"
-msgstr "%d minutes"
+msgstr "%d deqan"
 
 #, python-format
 msgid "%d ms"
@@ -225,8 +232,8 @@ msgstr ""
 #, fuzzy, python-format
 msgid "%d package selected."
 msgid_plural "%d packages selected."
-msgstr[0] " packages selected."
-msgstr[1] " packages selected."
+msgstr[0] " paket binirxine"
+msgstr[1] " paket binirxine"
 
 #, python-format
 msgid "%d pixel wide"
@@ -322,20 +329,20 @@ msgid "(ZAP as PiP)"
 msgstr ""
 
 msgid "(ZAP)"
-msgstr "(ZAP)"
+msgstr "(KANAL B)IGERI"
 
 #, python-format
 msgid "(activated +%d min)"
 msgstr ""
 
 msgid "(empty)"
-msgstr "(empty)"
+msgstr "(vala)"
 
 msgid "(not activated)"
 msgstr ""
 
 msgid "(show optional DVD audio menu)"
-msgstr "(show optional DVD audio menu)"
+msgstr "(show optional DVD dengé menu)"
 
 #, fuzzy
 msgid "(unknown)"
@@ -355,7 +362,7 @@ msgid "/s"
 msgstr ""
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
 msgstr "1"
@@ -367,7 +374,7 @@ msgid "100 MB/s"
 msgstr ""
 
 msgid "12V output"
-msgstr "12V output"
+msgstr "12V derve"
 
 msgid "13 V"
 msgstr "13 V"
@@ -382,7 +389,7 @@ msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
-msgstr "16:9 always"
+msgstr "16:9 daim"
 
 msgid "16K"
 msgstr ""
@@ -469,10 +476,10 @@ msgid ": 0000 - default (disabled)"
 msgstr ""
 
 msgid "<Current movielist location>"
-msgstr "<Current movielist location>"
+msgstr "<konuma listekén filma>"
 
 msgid "<Default movie location>"
-msgstr "<Default movie location>"
+msgstr "<Default Nava Filma>"
 
 msgid "<Last timer location>"
 msgstr "<Last timer location>"
@@ -490,7 +497,7 @@ msgid "A"
 msgstr "A"
 
 msgid "A completed recording timer is about to put your receiver in standby mode. Would you like to proceed?"
-msgstr "A finished record timer wants to set your receiver to standby. Do that now?"
+msgstr "A completed recording timer is about to put your receiver in standby mode. Would you like to proceed?"
 
 msgid "A completed recording timer is about to shut down your receiver. Would you like to proceed?"
 msgstr "A completed recording timer is about to shut down your receiver. Would you like to proceed?"
@@ -567,13 +574,13 @@ msgstr ""
 "Disable TV and try again?\n"
 
 msgid "A/V settings"
-msgstr "A/V settings"
+msgstr "A/V Çékirin"
 
 msgid "AAC downmix"
 msgstr ""
 
 msgid "AC3 downmix"
-msgstr ""
+msgstr "AC3 downmix"
 
 msgid "ACQUIRING TSID/ONID"
 msgstr ""
@@ -588,7 +595,7 @@ msgid "ATSC provider"
 msgstr ""
 
 msgid "Abort"
-msgstr "Abort"
+msgstr "Bettal Bike"
 
 msgid "Abort alternatives edit"
 msgstr "Abort alternatives edit"
@@ -600,25 +607,25 @@ msgid "Abort favourites edit"
 msgstr "Abort favourites edit"
 
 msgid "About"
-msgstr "About"
+msgstr "Heqé wi"
 
 msgid "Access point:"
-msgstr "Access point:"
+msgstr "Bigehize (Access Point):"
 
 msgid "Activate HbbTV (Redbutton)"
 msgstr ""
 
 msgid "Activate Picture in Picture"
-msgstr "Activate Picture in Picture"
+msgstr "Aktif bike resm o resm"
 
 msgid "Activate current configuration"
-msgstr "Activate current configuration"
+msgstr "Ti dixwazi aktif biki"
 
 msgid "Activate network settings"
-msgstr "Activate network settings"
+msgstr "Eyare Networké Aktif bike"
 
 msgid "Activate the configured network settings."
-msgstr "Activate the configured network settings."
+msgstr "Actif bike eyaré networké.."
 
 msgid "Activate timeshift End"
 msgstr ""
@@ -627,25 +634,25 @@ msgid "Activate timeshift end and pause"
 msgstr ""
 
 msgid "Adapter settings"
-msgstr "Adapter settings"
+msgstr "Adaptör Çéki"
 
 msgid "Add"
-msgstr "Add"
+msgstr "Çéki lé giréde"
 
 msgid "Add a mark"
-msgstr "Add a mark"
+msgstr "İşareté léki"
 
 msgid "Add a nameserver entry"
-msgstr "Add a nameserver entry"
+msgstr "Yek Navé nu léke"
 
 msgid "Add a new title"
-msgstr "Add a new title"
+msgstr "Navé Seroki"
 
 msgid "Add alternatives"
 msgstr "Add alternatives"
 
 msgid "Add bookmark"
-msgstr "Add bookmark"
+msgstr "Léke bookmark"
 
 msgid "Add bouquet"
 msgstr "Add bouquet"
@@ -654,13 +661,13 @@ msgid "Add bouquet to parental protection"
 msgstr ""
 
 msgid "Add directory to playlist"
-msgstr "Add directory to playlist"
+msgstr "Listeya Xebatéra dosya léke"
 
 msgid "Add file to playlist"
-msgstr "Add file to playlist"
+msgstr "Listeya Xebatéra dosya léke"
 
 msgid "Add files to playlist"
-msgstr "Add files to playlist"
+msgstr "Listeya Xebatéra dosya léke"
 
 msgid "Add marker"
 msgstr "Add marker"
@@ -681,7 +688,7 @@ msgid "Add recording (stop after current event)"
 msgstr "Add recording (stop after current event)"
 
 msgid "Add service"
-msgstr "Add service"
+msgstr "Hizmeté Nu girédi"
 
 msgid "Add service to bouquet"
 msgstr "Add service to bouquet"
@@ -689,8 +696,9 @@ msgstr "Add service to bouquet"
 msgid "Add service to favourites"
 msgstr "Add service to favourites"
 
+#, fuzzy
 msgid "Add services to this bouquet?"
-msgstr "Add services to this bouquet?"
+msgstr "Add service to bouquet"
 
 msgid "Add timer"
 msgstr "Add timer"
@@ -699,10 +707,10 @@ msgid "Add title"
 msgstr "Add title"
 
 msgid "Add to bouquet"
-msgstr "Add to bouquet"
+msgstr "bouqueta nu girédi"
 
 msgid "Add to favourites"
-msgstr "Add to favourites"
+msgstr "Favoriye Nu Girédi"
 
 msgid "Add to parental protection"
 msgstr "Add to parental protection"
@@ -729,25 +737,25 @@ msgid "Advanced"
 msgstr ""
 
 msgid "Advanced options"
-msgstr "Advanced options"
+msgstr "Seçeneké Zéde"
 
 msgid "Advanced options and settings."
-msgstr "Advanced options and settings."
+msgstr "Ayaré Zéde "
 
 msgid "Advanced restore"
 msgstr "Advanced restore"
 
 msgid "Advanced software"
-msgstr "Advanced software"
+msgstr "Firmwaré Zéde"
 
 msgid "Advanced software plugin"
-msgstr "Advanced software plugin"
+msgstr "Firmwaré Zéde Girédin"
 
 msgid "Advanced video enhancement setup"
-msgstr "Advanced video enhancement setup"
+msgstr "Video Eyaré zéde çékin"
 
 msgid "Advanced video setup"
-msgstr "Advanced video setup"
+msgstr "Zéde Video Eyar bikin"
 
 msgid "Afghanistan"
 msgstr ""
@@ -774,10 +782,10 @@ msgid "Alignment of service names"
 msgstr ""
 
 msgid "All"
-msgstr "All"
+msgstr "Temami"
 
 msgid "All ages"
-msgstr "All ages"
+msgstr "Hemu Kes"
 
 msgid "All frequency"
 msgstr ""
@@ -801,7 +809,7 @@ msgid "All slots"
 msgstr ""
 
 msgid "Allocate"
-msgstr "Allocate"
+msgstr "Biqetinin"
 
 msgid "Allocate a number to the physical LNB you are configuring. You will be able to select this LNB again for other satellites (e.g. motorised dishes) to save setting up the same LNB multiple times."
 msgstr ""
@@ -815,9 +823,8 @@ msgstr ""
 msgid "Allow 12bit"
 msgstr ""
 
-#, fuzzy
 msgid "Allow quitting movie player with exit"
-msgstr "Allow quitting movie player with exit"
+msgstr ""
 
 msgid "Allow subtitle language to equal audio language"
 msgstr "Allow subtitle language to equal audio language"
@@ -850,7 +857,7 @@ msgid "Also on standby"
 msgstr ""
 
 msgid "Alternative"
-msgstr "Alternative"
+msgstr "Evé din"
 
 msgid "Alternative URL for images listed on FlashImage"
 msgstr ""
@@ -859,7 +866,7 @@ msgid "Alternative URLs for DVB-T/C or ATSC"
 msgstr ""
 
 msgid "Alternative numbering mode"
-msgstr "Alternative numbering mode"
+msgstr "Evé din numara"
 
 msgid "Alternative services tuner priority"
 msgstr "Alternative services tuner priority"
@@ -914,7 +921,7 @@ msgid "Any activity"
 msgstr "Any activity"
 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabi"
 
 #, fuzzy
 msgid "Are you sure to delete image:"
@@ -999,7 +1006,7 @@ msgid "Artist"
 msgstr "Artist"
 
 msgid "Arts/Culture"
-msgstr "Arts/Culture"
+msgstr "Sanat u Kultur"
 
 msgid "Aruba"
 msgstr ""
@@ -1008,7 +1015,7 @@ msgid "As defined by the skin"
 msgstr ""
 
 msgid "Ask user"
-msgstr "Ask user"
+msgstr "Xebatkar Pirski"
 
 msgid "Aspect ratio"
 msgstr "Aspect ratio"
@@ -1034,13 +1041,13 @@ msgid ""
 msgstr ""
 
 msgid "Audio"
-msgstr "Audio"
+msgstr "Deng"
 
 msgid "Audio / Video"
 msgstr ""
 
 msgid "Audio PID"
-msgstr "Audio PID"
+msgstr "Deng PID"
 
 #, python-format
 msgid "Audio PID%s, codec & lang"
@@ -1053,30 +1060,30 @@ msgid "Audio auto volume level"
 msgstr ""
 
 msgid "Audio language selection 1"
-msgstr "Audio language selection 1"
+msgstr "Dengé ziman 1"
 
 msgid "Audio language selection 2"
-msgstr "Audio language selection 2"
+msgstr "Dengé ziman 2"
 
 msgid "Audio language selection 3"
-msgstr "Audio language selection 3"
+msgstr "Dengé ziman 3"
 
 msgid "Audio language selection 4"
-msgstr "Audio language selection 4"
+msgstr "Dengé ziman 4"
 
 msgid "Audio options..."
-msgstr "Audio options..."
+msgstr "Eyaré deng..."
 
 msgid "Audio plugins"
 msgstr ""
 
 #, python-format
 msgid "Audio track (%s) format"
-msgstr "Audio track (%s) format"
+msgstr "Deng track (%s) format"
 
 #, python-format
 msgid "Audio track (%s) language"
-msgstr "Audio track (%s) language"
+msgstr "Deng track (%s) language"
 
 msgid "Audio volume step size"
 msgstr ""
@@ -1094,10 +1101,10 @@ msgid "Austria"
 msgstr "equestrian"
 
 msgid "Author: "
-msgstr "Author: "
+msgstr "Niviskar: "
 
 msgid "Authoring mode"
-msgstr "Authoring mode"
+msgstr "modé Nivisi"
 
 #. TRANSLATORS: (aspect ratio policy: automatically select the best aspect ratio mode)
 msgid "Auto"
@@ -1119,10 +1126,10 @@ msgid "Auto focus"
 msgstr "Auto focus"
 
 msgid "Auto focus commencing..."
-msgstr "Auto focus commencing..."
+msgstr "Auto netkirin..."
 
 msgid "Auto language selection"
-msgstr "Auto language selection"
+msgstr "Auto Ziman Çékirin"
 
 msgid "Auto play blu-ray file"
 msgstr ""
@@ -1150,19 +1157,19 @@ msgstr ""
 
 #, fuzzy
 msgid "Automatic bookmarks"
-msgstr "Automatic scan"
+msgstr "Automatic Légerin"
 
 msgid "Automatic scan"
-msgstr "Automatic scan"
+msgstr "Automatic Légerin"
 
 msgid "Automatically put the TV in standby whenever the receiver goes into standby or deep standby."
 msgstr ""
 
 msgid "Automatically start timeshift after"
-msgstr "Automatically start timeshift after"
+msgstr ""
 
 msgid "Automatically turn on external subtitles"
-msgstr "Automatically turn on external subtitles"
+msgstr ""
 
 msgid "Available format variables"
 msgstr "Available format variables"
@@ -1184,42 +1191,42 @@ msgid "BER:"
 msgstr "BER:"
 
 msgid "Back"
-msgstr "Back"
+msgstr "Paş"
 
 msgid "Background"
-msgstr "Background"
+msgstr "Paş Reng"
 
 msgid "Background color"
-msgstr "Background color"
+msgstr "Rengé Paşi"
 
 msgid "Background delete option"
-msgstr "Background delete option"
+msgstr "Rengé paşi paqişki"
 
 msgid "Background delete speed"
-msgstr "Background delete speed"
+msgstr "Zu paqişki"
 
 #, python-format
 msgid "Backing up to: %s"
 msgstr ""
 
 msgid "Backup completed."
-msgstr "Backup completed."
+msgstr "Temami Backup "
 
 msgid "Backup failed."
 msgstr "Backup failed."
 
 msgid "Backup is running..."
-msgstr "Backup is running..."
+msgstr "Backup bixebtine"
 
 #, fuzzy
 msgid "Backup settings"
-msgstr "Backup system settings"
+msgstr "Eyari Backup system"
 
 msgid "Backup system settings"
-msgstr "Backup system settings"
+msgstr "Eyari Backup system"
 
 msgid "Backup your receiver settings."
-msgstr "Backup your receiver settings."
+msgstr "yedeka bigre..."
 
 msgid "Bahamas"
 msgstr ""
@@ -1231,7 +1238,7 @@ msgid "Band"
 msgstr "Band"
 
 msgid "Bandwidth"
-msgstr "Bandwidth"
+msgstr "Frehiya Band"
 
 msgid "Bangladesh"
 msgstr ""
@@ -1249,7 +1256,7 @@ msgid "Before sending the command to switch the TV to standby, the receiver test
 msgstr ""
 
 msgid "Begin time"
-msgstr "Begin time"
+msgstr "zeman dest pédike"
 
 msgid "Behavior of '0' button in PiP mode"
 msgstr "Behavior of '0' button in PiP mode"
@@ -1292,13 +1299,13 @@ msgid "Big PiP"
 msgstr ""
 
 msgid "Bitrate:"
-msgstr "Bitrate:"
+msgstr "Zu leziya Bit:"
 
 msgid "Black screen"
-msgstr "Black screen"
+msgstr "Ekrana Reş"
 
 msgid "Black screen till locked"
-msgstr "Black screen till locked"
+msgstr "Ekrana reş kilitke"
 
 msgid "Blindscan"
 msgstr ""
@@ -1307,7 +1314,7 @@ msgid "Blindscan terrestrial (if possible)"
 msgstr ""
 
 msgid "Block noise reduction"
-msgstr "Block noise reduction"
+msgstr "Dengé zéde kémke"
 
 msgid "Blue"
 msgstr ""
@@ -1351,7 +1358,7 @@ msgid "Brazil"
 msgstr ""
 
 msgid "Brightness"
-msgstr "Brightness"
+msgstr "Ronahi"
 
 msgid "British Indian Ocean Territory"
 msgstr ""
@@ -1365,24 +1372,24 @@ msgstr ""
 
 #, fuzzy
 msgid "Build date: "
-msgstr "Bitrate:"
+msgstr "Zu leziya Bit:"
 
 #, fuzzy
 msgid "Bulgaria"
-msgstr "Bulgarian"
+msgstr "Bulgari"
 
 msgid "Bulgarian"
-msgstr "Bulgarian"
+msgstr "Bulgari"
 
 msgid "Burkina Faso"
 msgstr ""
 
 msgid "Burn DVD"
-msgstr "Burn DVD"
+msgstr "Bişewiti DVD"
 
 #, python-format
 msgid "Burn audio track (%s)"
-msgstr "Burn audio track (%s)"
+msgstr "bişewiti deng temaşe (%s)"
 
 msgid "Burn existing image to DVD"
 msgstr "Burn existing image to DVD"
@@ -1428,28 +1435,28 @@ msgid "CPU: "
 msgstr ""
 
 msgid "Cable"
-msgstr "Cable"
+msgstr "Qablo"
 
 msgid "Cable Scan"
-msgstr "Cable Scan"
+msgstr "Cable Légerin"
 
 msgid "Cabo Verde"
 msgstr ""
 
 msgid "Cache thumbnails"
-msgstr "Cache thumbnails"
+msgstr "Aqilé piçuk"
 
 msgid "Calculate"
-msgstr "Calculate"
+msgstr "hesab bike"
 
 msgid "Calculate all positions"
-msgstr "Calculate all positions"
+msgstr "Her daim hesab bike"
 
 msgid "Calculation complete"
-msgstr "Calculation complete"
+msgstr "Temami Hesapki"
 
 msgid "Calibrate"
-msgstr "Calibrate"
+msgstr "Eyari bike"
 
 msgid "Cambodia"
 msgstr ""
@@ -1458,7 +1465,7 @@ msgid "Cameroon"
 msgstr ""
 
 msgid "Can be used for different fps between external subtitles and video."
-msgstr "Can be used for different fps between external subtitles and video."
+msgstr ""
 
 msgid ""
 "Can be used to test defect pixels on TV screen.\n"
@@ -1485,7 +1492,7 @@ msgid "Canada"
 msgstr ""
 
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Berdi"
 
 msgid "Cancel any changes to the currently active skin"
 msgstr ""
@@ -1508,16 +1515,16 @@ msgid "Cannot delete downloaded image"
 msgstr "Really delete done timers?"
 
 msgid "Cannot determine"
-msgstr "Cannot determine"
+msgstr "Tişt çé nebu"
 
 msgid "Cannot find any signal ..., aborting !"
-msgstr "Cannot find any signal ..., aborting !"
+msgstr "Heta Neha min Sinyal Nedi... Bettal ki!"
 
 msgid "Cannot find images - please try later"
 msgstr ""
 
 msgid "Cannot move files on a different disk or system to the trash can"
-msgstr "Cannot move files on a different disk or system to the trash can"
+msgstr "Kutuya Çöp ti nikani valaki"
 
 msgid "Cannot move to trash can"
 msgstr "Cannot move to trash can"
@@ -1551,19 +1558,19 @@ msgstr ""
 
 #, fuzzy
 msgid "Change Language"
-msgstr "Language"
+msgstr "Ziman"
 
 msgid "Change PIN"
 msgstr ""
 
 msgid "Change bouquets in quickzap"
-msgstr "Change bouquets in quickzap"
+msgstr "Zu Buketa çédki"
 
 msgid "Change recording (add time)"
 msgstr ""
 
 msgid "Change recording (duration)"
-msgstr "Change recording (duration)"
+msgstr "Qeydi bedilni"
 
 msgid "Change recording (endtime)"
 msgstr "Change recording (endtime)"
@@ -1578,17 +1585,17 @@ msgid "Change timer"
 msgstr ""
 
 msgid "Channel"
-msgstr "Channel"
+msgstr "Qanal"
 
 msgid "Channel Info"
 msgstr ""
 
 #, fuzzy
 msgid "Channel context menu"
-msgstr "Channellist menu"
+msgstr "Menu Qenal Liste"
 
 msgid "Channel list type"
-msgstr "Channel list type"
+msgstr "Qanal Liste "
 
 msgid "Channel not in services list"
 msgstr "Channel not in services list"
@@ -1597,10 +1604,10 @@ msgid "Channel selection"
 msgstr "Channel selection"
 
 msgid "Channel:"
-msgstr "Channel:"
+msgstr "Qenal:"
 
 msgid "Channellist menu"
-msgstr "Channellist menu"
+msgstr "Menu Qenal Liste"
 
 msgid "Channelnumber and picon"
 msgstr ""
@@ -1613,18 +1620,18 @@ msgstr ""
 
 #, fuzzy
 msgid "Channels"
-msgstr "Channel"
+msgstr "Qanal"
 
 #, fuzzy
 msgid "Channels and EPG"
-msgstr "Channellist menu"
+msgstr "Menu Qenal Liste"
 
 #, fuzzy
 msgid "Channels only"
-msgstr "Channel"
+msgstr "Qanal"
 
 msgid "Chap."
-msgstr "Chap."
+msgstr "Mirov"
 
 msgid "Chapter"
 msgstr "Chapter"
@@ -1633,22 +1640,22 @@ msgid "Chapter:"
 msgstr "Chapter:"
 
 msgid "Check"
-msgstr "Check"
+msgstr "Qontrol"
 
 msgid "Check the internet connection"
-msgstr "Check the internet connection"
+msgstr "Girédayiya İnterneté Qonrol Bike"
 
 msgid "Check the internet connection again"
-msgstr "Check the internet connection again"
+msgstr "Disa Qontrola İnternet Bikin"
 
 msgid "Checking ONID/TSID"
 msgstr ""
 
 msgid "Checking filesystem..."
-msgstr "Checking filesystem..."
+msgstr "Sistema dosya binéri"
 
 msgid "Checking the internet connection"
-msgstr "Checking the internet connection"
+msgstr "Qontrola İnternet"
 
 #, python-format
 msgid ""
@@ -1657,7 +1664,7 @@ msgid ""
 msgstr ""
 
 msgid "Children/Youth"
-msgstr "Children/Youth"
+msgstr "Zaruk/Xort"
 
 msgid "Chile"
 msgstr ""
@@ -1678,7 +1685,7 @@ msgid "Choose bouquet"
 msgstr ""
 
 msgid "Choose which tuner to configure."
-msgstr "Choose which tuner to configure."
+msgstr "Çékirina Tuner Binirxine"
 
 msgid "Christmas Island"
 msgstr ""
@@ -1687,19 +1694,19 @@ msgid "Circular LNB"
 msgstr ""
 
 msgid "Circular left"
-msgstr "Circular left"
+msgstr "Çepa daira"
 
 msgid "Circular right"
-msgstr "Circular right"
+msgstr "Raştiya daira"
 
 msgid "Cleanup"
-msgstr "Cleanup"
+msgstr "Paqişi"
 
 msgid "Clear"
-msgstr "Clear"
+msgstr "Paqiş"
 
 msgid "Clear before scan"
-msgstr "Clear before scan"
+msgstr "Paqişi paş légerin"
 
 msgid "Clear fixed"
 msgstr "Clear fixed"
@@ -1720,10 +1727,10 @@ msgid "Clone TV screen to LCD mode"
 msgstr ""
 
 msgid "Close"
-msgstr "Close"
+msgstr "Veqeti"
 
 msgid "Close PiP with 'exit' button"
-msgstr "Close PiP with 'exit' button"
+msgstr ""
 
 msgid "Close title selection"
 msgstr "Close title selection"
@@ -1741,25 +1748,25 @@ msgid "Code rate LP"
 msgstr "Code rate LP"
 
 msgid "Collection name"
-msgstr "Collection name"
+msgstr "Nav Koleksiyon"
 
 msgid "Collection settings"
-msgstr "Collection settings"
+msgstr "Eyara Kolleksiyon"
 
 #, fuzzy
 msgid "Colombia"
-msgstr "Color format"
+msgstr "Formata Renga"
 
 #, fuzzy
 msgid "Color"
-msgstr "Color format"
+msgstr "Formata Renga"
 
 msgid "Color format"
-msgstr "Color format"
+msgstr "Formata Renga"
 
 #, fuzzy
 msgid "Combined"
-msgstr "Color format"
+msgstr "Formata Renga"
 
 msgid "Combo"
 msgstr ""
@@ -1777,13 +1784,13 @@ msgid "Commit info"
 msgstr ""
 
 msgid "Common Interface"
-msgstr "Common Interface"
+msgstr "Qerta Ortax"
 
 msgid "Common Interface assignment"
 msgstr "Common Interface assignment"
 
 msgid "Communication"
-msgstr "Communication"
+msgstr "Hevra Girédayi"
 
 msgid "Comoros"
 msgstr ""
@@ -1792,7 +1799,7 @@ msgid "Compact flash"
 msgstr "Compact flash"
 
 msgid "Complete"
-msgstr "Complete"
+msgstr "Temami"
 
 msgid "Complex (allows mixing audio tracks and aspects)"
 msgstr "Complex (allows mixing audio tracks and aspects)"
@@ -1802,7 +1809,7 @@ msgstr "Composition of the recording filenames"
 
 #, fuzzy
 msgid "Compress"
-msgstr "Complete"
+msgstr "Temami"
 
 msgid "Config Scan Details"
 msgstr ""
@@ -1811,10 +1818,10 @@ msgid "Config resolution of pictures"
 msgstr ""
 
 msgid "Configuration"
-msgstr "Configuration"
+msgstr "Çékirin"
 
 msgid "Configuration mode"
-msgstr "Configuration mode"
+msgstr "Çékirina Ru"
 
 #, python-format
 msgid "Configuration mode: %s"
@@ -1837,10 +1844,10 @@ msgid "Configure DVB-T"
 msgstr "Configuring"
 
 msgid "Configure an additional delay to improve external subtitle synchronisation."
-msgstr "Configure an additional delay to improve external subtitle synchronisation."
+msgstr ""
 
 msgid "Configure an additional delay to improve subtitle synchronisation."
-msgstr "Configure an additional delay to improve subtitle synchronisation."
+msgstr ""
 
 #, fuzzy
 msgid "Configure default type for new timers."
@@ -1937,7 +1944,7 @@ msgid "Configure the brightness level of the front panel display."
 msgstr "Configure the brightness level of the front panel display."
 
 msgid "Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow."
-msgstr "Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow."
+msgstr ""
 
 msgid "Configure the color of the teletext subtitles."
 msgstr "Configure the color of the teletext subtitles."
@@ -1952,7 +1959,7 @@ msgid "Configure the duration in hours the receiver should go to standby when th
 msgstr ""
 
 msgid "Configure the duration in minutes for the screensaver."
-msgstr "Configure the duration in minutes for the screensaver."
+msgstr ""
 
 msgid "Configure the duration in minutes for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
 msgstr ""
@@ -2174,10 +2181,10 @@ msgid "Congo (Democratic Republic of the)"
 msgstr ""
 
 msgid "Connect"
-msgstr "Connect"
+msgstr "Giréda"
 
 msgid "Connect to a wireless network"
-msgstr "Connect to a wireless network"
+msgstr "Girédibi wireless network"
 
 #, fuzzy
 msgid "Connected"
@@ -2187,7 +2194,7 @@ msgid "Connected satellites"
 msgstr ""
 
 msgid "Connected to"
-msgstr "Connected to"
+msgstr "Girédi "
 
 msgid "Connected transcoding, limit - no PiP!"
 msgstr ""
@@ -2208,7 +2215,7 @@ msgid "Content does not fit on DVD!"
 msgstr "Content does not fit on DVD!"
 
 msgid "Continue"
-msgstr "Continue"
+msgstr "Dowmke"
 
 msgid "Continue playback"
 msgstr "Continue playback"
@@ -2288,10 +2295,10 @@ msgstr "Creating partition"
 
 #, fuzzy
 msgid "Croatia"
-msgstr "Croatian"
+msgstr "Xitwat"
 
 msgid "Croatian"
-msgstr "Croatian"
+msgstr "Xitwat"
 
 msgid "Cuba"
 msgstr ""
@@ -2346,7 +2353,7 @@ msgid "Custom skip time for '7'/'9' buttons"
 msgstr "Custom skip time for '7'/'9' buttons"
 
 msgid "Customize"
-msgstr "Customize"
+msgstr "Weki Xwu Çéki"
 
 msgid "Customize OpenWebIF settings for fallback tuner"
 msgstr ""
@@ -2386,7 +2393,7 @@ msgid "DMM normal"
 msgstr "DMM normal"
 
 msgid "DTS downmix"
-msgstr ""
+msgstr "DTS downmix"
 
 msgid "DUAL LAYER DVD"
 msgstr "DUAL LAYER DVD"
@@ -2436,7 +2443,7 @@ msgid "Danish"
 msgstr "Danish"
 
 msgid "Date"
-msgstr "Date"
+msgstr "Dirok"
 
 msgid "Date/time input"
 msgstr "Date/time input"
@@ -2531,7 +2538,7 @@ msgid "Delay between switch and motor command"
 msgstr ""
 
 msgid "Delay for external subtitles"
-msgstr "Delay for external subtitles"
+msgstr ""
 
 msgid "Delay in miliseconds after finish scrolling text on display."
 msgstr ""
@@ -2543,7 +2550,7 @@ msgid "Delay in miliseconds between scrolling characters on display."
 msgstr ""
 
 msgid "Delete"
-msgstr "Delete"
+msgstr "Paqiş"
 
 #, fuzzy
 msgid "Delete Image"
@@ -2582,7 +2589,7 @@ msgid "Delete timer"
 msgstr ""
 
 msgid "Deleted"
-msgstr "Deleted"
+msgstr "Paqişi"
 
 #, fuzzy
 msgid "Deleted image"
@@ -2706,7 +2713,7 @@ msgid "Disable move mode"
 msgstr "Disable move mode"
 
 msgid "Disable timer"
-msgstr ""
+msgstr "Disable timer"
 
 msgid "Disabled"
 msgstr "Disabled"
@@ -2735,7 +2742,7 @@ msgstr "Show EPG for current channel..."
 
 #, fuzzy
 msgid "Display Skin"
-msgstr "Display setup"
+msgstr "Çékirina Roniya Ekran"
 
 msgid "Display and userinterface"
 msgstr "Display and userinterface"
@@ -2747,11 +2754,11 @@ msgid "Display movie length in movielist (except single line style)."
 msgstr ""
 
 msgid "Display setup"
-msgstr "Display setup"
+msgstr "Çékirina Roniya Ekran"
 
 #, fuzzy
 msgid "Djibouti"
-msgstr "About"
+msgstr "Heqé wi"
 
 #, fuzzy
 msgid "Do a cable service scan now"
@@ -2929,32 +2936,32 @@ msgstr[0] "Done - Installed, updated or removed %d packages with %d errors"
 msgstr[1] "Done - Installed, updated or removed %d packages with %d errors"
 
 msgid "Download plugins"
-msgstr "Download plugins"
+msgstr "Dayni Girédayi"
 
 msgid "Downloadable new plugins"
-msgstr "Downloadable new plugins"
+msgstr "Dayni Girédayiyé nu"
 
 msgid "Downloadable plugins"
 msgstr "Downloadable plugins"
 
 msgid "Downloading"
-msgstr "Downloading"
+msgstr "Girédya"
 
 #, fuzzy
 msgid "Downloading Image"
-msgstr "Downloading"
+msgstr "Girédya"
 
 msgid "Downloading a new packet list. Please wait..."
 msgstr "Downloading a new packet list. Please wait..."
 
 msgid "Downloading plugin information. Please wait..."
-msgstr "Downloading plugin information. Please wait..."
+msgstr "Girédayi ti daxirstin..."
 
 msgid "Drop unconfigured satellites"
 msgstr "Drop unconfigured satellites"
 
 msgid "Dutch"
-msgstr "Dutch"
+msgstr "Xolanda"
 
 msgid "Dynamic contrast"
 msgstr "Dynamic contrast"
@@ -2970,10 +2977,10 @@ msgid "EPG"
 msgstr "EPG"
 
 msgid "EPG language selection 1"
-msgstr "EPG language selection 1"
+msgstr "EPG ziman 1"
 
 msgid "EPG language selection 2"
-msgstr "EPG language selection 2"
+msgstr "EPG ziman2"
 
 msgid "EPG only"
 msgstr ""
@@ -2982,7 +2989,7 @@ msgid "EPG selection"
 msgstr "EPG selection"
 
 msgid "EPG settings"
-msgstr "EPG settings"
+msgstr "EPG Çékirin"
 
 msgid "EPG:"
 msgstr ""
@@ -3034,7 +3041,7 @@ msgid "Edit the network configuration of your receiver.\n"
 msgstr "Edit the network configuration of your receiver.\n"
 
 msgid "Edit the update source address."
-msgstr "Edit the update source address."
+msgstr "Update ra Eyaran Çékin"
 
 msgid "Edit timer"
 msgstr ""
@@ -3200,7 +3207,7 @@ msgid "End favourites edit"
 msgstr "End favourites edit"
 
 msgid "End time"
-msgstr "End time"
+msgstr "Vext derbas bu"
 
 msgid "End time to ignore inactivity sleeptimer"
 msgstr ""
@@ -3209,7 +3216,7 @@ msgid "End time to ignore shutdown in standby"
 msgstr ""
 
 msgid "English"
-msgstr "English"
+msgstr "Engiliz"
 
 #, python-format
 msgid "Enigma (re)starts: %d\n"
@@ -3412,7 +3419,7 @@ msgid "Exit input device selection."
 msgstr "Exit input device selection."
 
 msgid "Exit media player?"
-msgstr "Exit media player?"
+msgstr ""
 
 msgid "Exit mediaplayer"
 msgstr "Exit mediaplayer"
@@ -3486,7 +3493,7 @@ msgid "External Storage %s"
 msgstr ""
 
 msgid "External subtitle color"
-msgstr "External subtitle color"
+msgstr ""
 
 msgid "External subtitle dialog colorisation"
 msgstr ""
@@ -3557,7 +3564,7 @@ msgid "FTA"
 msgstr "FTA"
 
 msgid "Factory reset"
-msgstr "Factory reset"
+msgstr "Reseta Fabrikayé "
 
 msgid ""
 "Factory reset will restore your receiver to its default configuration. All user data including system settings, tuner configuration, bouquets, services and plugins will be DELETED. Recordings and other files stored on HDD and USB media will remain intact. After completion, the system will restart automatically!\n"
@@ -3644,12 +3651,13 @@ msgstr "Fast epoch"
 msgid "Fast forward speeds"
 msgstr "Fast forward speeds"
 
+#, fuzzy
 msgid "FastScan"
-msgstr "FastScan"
+msgstr "Lezi Légerin"
 
 #, fuzzy
 msgid "Fastscan"
-msgstr "FastScan"
+msgstr "Lezi Légerin"
 
 msgid "Favourites"
 msgstr "Favourites"
@@ -3783,7 +3791,7 @@ msgid "Fri"
 msgstr "Fri"
 
 msgid "Friday"
-msgstr "Friday"
+msgstr "İn"
 
 msgid "From:"
 msgstr "From:"
@@ -4099,7 +4107,7 @@ msgid "Hide known extensions"
 msgstr ""
 
 msgid "Hide number markers"
-msgstr "Hide number markers"
+msgstr ""
 
 msgid "Hide parentel locked services"
 msgstr ""
@@ -4360,13 +4368,11 @@ msgstr "Index allocated:"
 msgid "India"
 msgstr ""
 
-#, fuzzy
 msgid "Indonesia"
-msgstr "Indonesian"
+msgstr ""
 
-#, fuzzy
 msgid "Indonesian"
-msgstr "Indonesian"
+msgstr ""
 
 msgid "Info"
 msgstr "Info"
@@ -4381,7 +4387,7 @@ msgid "Infobar frontend data source"
 msgstr ""
 
 msgid "Information"
-msgstr "Information"
+msgstr "Hakké İmagéda"
 
 msgid "Init"
 msgstr "Init"
@@ -4430,7 +4436,7 @@ msgid "Input device setup"
 msgstr "Input device setup"
 
 msgid "Input devices"
-msgstr "Input devices"
+msgstr "device girédayi"
 
 msgid "Install"
 msgstr "Install"
@@ -4641,7 +4647,7 @@ msgid "LNB"
 msgstr "LNB"
 
 msgid "Language"
-msgstr "Language"
+msgstr "Ziman"
 
 msgid "Language selection"
 msgstr "Language selection"
@@ -4691,7 +4697,7 @@ msgid "Left"
 msgstr "Left"
 
 msgid "Left from servicename"
-msgstr "Left from servicename"
+msgstr ""
 
 msgid "Leisure hobbies"
 msgstr "Leisure hobbies"
@@ -4835,7 +4841,7 @@ msgid "Looking for active transponders in the cable network. Please wait..."
 msgstr "Looking for active transponders in the cable network. Please wait..."
 
 msgid "Looking for active transponders in the terrestrial network. Please wait..."
-msgstr "Looking for active transponders in the terrestrial network. Please wait..."
+msgstr ""
 
 msgid "Loop through from"
 msgstr ""
@@ -4912,7 +4918,7 @@ msgid "Manual"
 msgstr ""
 
 msgid "Manual Scan"
-msgstr "Manual Scan"
+msgstr "Bi dest Légerin"
 
 msgid "Manual configuration"
 msgstr "Manual configuration"
@@ -5073,7 +5079,7 @@ msgid "Monaco"
 msgstr ""
 
 msgid "Monday"
-msgstr "Monday"
+msgstr "Yekşem"
 
 msgid "Mongolia"
 msgstr ""
@@ -5216,7 +5222,7 @@ msgstr "Multimedia"
 
 #, fuzzy
 msgid "Multiboot image selector"
-msgstr "Auto language selection"
+msgstr "Auto Ziman Çékirin"
 
 msgid "Multichannel PCM"
 msgstr ""
@@ -5302,7 +5308,7 @@ msgid "Netmask"
 msgstr "Netmask"
 
 msgid "Network"
-msgstr "Network"
+msgstr "Çékirina Network"
 
 msgid "Network ID"
 msgstr "Network ID"
@@ -5562,7 +5568,7 @@ msgid "North"
 msgstr "North"
 
 msgid "North Macedonia (The Republic of)"
-msgstr "North Macedonia (The Republic of)"
+msgstr "Makedonya Bakur (Komara)"
 
 msgid "Northern Mariana Islands"
 msgstr ""
@@ -5675,7 +5681,7 @@ msgid "One"
 msgstr "One"
 
 msgid "Online update of your receiver software."
-msgstr "Online update of your receiver software."
+msgstr "Zindi Update bikin."
 
 msgid "Only change this setting if you are using a SCR device that has been reprogrammed with a custom programmer. For further information check with the person that reprogrammed the device."
 msgstr ""
@@ -5836,7 +5842,7 @@ msgid "Parent directory"
 msgstr "Parent directory"
 
 msgid "Parental control"
-msgstr "Parental control"
+msgstr "Kilita Gede"
 
 msgid "Parental control services editor"
 msgstr "Parental control services editor"
@@ -5862,7 +5868,7 @@ msgstr "Continue playback"
 
 #, fuzzy
 msgid "Pending restart"
-msgstr "Standby / restart"
+msgstr "Bigiri / Nu Vegeri"
 
 msgid "Percentage left"
 msgstr "Percentage left"
@@ -6197,7 +6203,7 @@ msgid "Plugin manager help"
 msgstr "Plugin manager help"
 
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "Girédayi"
 
 msgid "Poland"
 msgstr ""
@@ -6253,7 +6259,7 @@ msgid "Positioner (selecting satellites)"
 msgstr ""
 
 msgid "Positioner setup"
-msgstr "Positioner setup"
+msgstr "Pozisyoner Çéki"
 
 msgid "Positioner setup log"
 msgstr ""
@@ -6603,7 +6609,7 @@ msgid "Reception settings"
 msgstr "Reception settings"
 
 msgid "Record"
-msgstr "Record"
+msgstr "Qeyd"
 
 #, python-format
 msgid "Record time limited due to conflicting timer %s"
@@ -6622,7 +6628,7 @@ msgid "Recording in progress"
 msgstr "Recording in progress"
 
 msgid "Recording paths"
-msgstr "Recording paths"
+msgstr "Réya Qeyda"
 
 msgid "Recording type"
 msgstr "Recording type"
@@ -6906,10 +6912,10 @@ msgid "Restore system settings"
 msgstr "Restore system settings"
 
 msgid "Restore your backups by date."
-msgstr "Restore your backups by date."
+msgstr "backup xwu restore bikin"
 
 msgid "Restore your receiver settings."
-msgstr "Restore your receiver settings."
+msgstr "Risiver restore bikin."
 
 msgid "Restoring..."
 msgstr "Restoring..."
@@ -6960,7 +6966,7 @@ msgid "Right"
 msgstr "Right"
 
 msgid "Right from servicename"
-msgstr "Right from servicename"
+msgstr ""
 
 msgid "Roll-off"
 msgstr "Roll-off"
@@ -7094,7 +7100,7 @@ msgid "Saturation"
 msgstr "Saturation"
 
 msgid "Saturday"
-msgstr "Saturday"
+msgstr "Sift"
 
 msgid "Saudi Arabia"
 msgstr ""
@@ -7190,7 +7196,7 @@ msgid "Scan files..."
 msgstr "Scan files..."
 
 msgid "Scan for local extensions and install them."
-msgstr "Scan for local extensions and install them."
+msgstr "Giradiye mehali bigeri."
 
 msgid "Scan options"
 msgstr ""
@@ -7639,7 +7645,7 @@ msgid "Serbian"
 msgstr "Serbian"
 
 msgid "Service"
-msgstr "Service"
+msgstr "Hizmeti"
 
 msgid "Service & PIDs"
 msgstr ""
@@ -7751,7 +7757,7 @@ msgid "Set fixed"
 msgstr "Set fixed"
 
 msgid "Set fps for external subtitles"
-msgstr "Set fps for external subtitles"
+msgstr ""
 
 msgid "Set if You want see status icons, progress bars or nothing."
 msgstr ""
@@ -7815,7 +7821,7 @@ msgid "Settings can be different for each directory separately (for non removeab
 msgstr ""
 
 msgid "Setup"
-msgstr "Setup"
+msgstr "Çékirin"
 
 #, fuzzy
 msgid "Setup hard disk"
@@ -8027,12 +8033,11 @@ msgstr ""
 msgid "Show satellites list"
 msgstr "Satellites"
 
-#, fuzzy
 msgid "Show screen path"
-msgstr "Show screensaver"
+msgstr ""
 
 msgid "Show screensaver"
-msgstr "Show screensaver"
+msgstr ""
 
 msgid "Show second InfoBar"
 msgstr ""
@@ -8044,7 +8049,7 @@ msgid "Show service list"
 msgstr ""
 
 msgid "Show service type icons"
-msgstr "Show service type icons"
+msgstr ""
 
 msgid "Show servicelist or movies"
 msgstr ""
@@ -8100,7 +8105,7 @@ msgid "Show warning before set 'Ignore conflict'"
 msgstr ""
 
 msgid "Show warning when timeshift is stopped"
-msgstr "Show warning when timeshift is stopped"
+msgstr ""
 
 msgid "Show/hide window"
 msgstr ""
@@ -8131,7 +8136,7 @@ msgstr "Signal OK, proceeding"
 
 #, fuzzy
 msgid "Signal finder"
-msgstr "Satfinder"
+msgstr "Sat (Uydu) Bine"
 
 msgid "Signal quality"
 msgstr "Signal quality"
@@ -8287,7 +8292,7 @@ msgid "Software manager setup"
 msgstr "Software manager setup"
 
 msgid "Software update"
-msgstr "Software update"
+msgstr "Nisisiya İmage Bine"
 
 msgid "Softwaremanager information"
 msgstr "Softwaremanager information"
@@ -8447,7 +8452,7 @@ msgid "Standby"
 msgstr "Standby"
 
 msgid "Standby / restart"
-msgstr "Standby / restart"
+msgstr "Bigiri / Nu Vegeri"
 
 #, fuzzy
 msgid "Standby LED"
@@ -8648,7 +8653,7 @@ msgid "Subtitle border width"
 msgstr "Subtitle border width"
 
 msgid "Subtitle delay when timing is bad"
-msgstr "Subtitle delay when timing is bad"
+msgstr ""
 
 msgid "Subtitle delay when timing lacks"
 msgstr "Subtitle delay when timing lacks"
@@ -8678,7 +8683,7 @@ msgid "Subtitle selection..."
 msgstr "Subtitle selection..."
 
 msgid "Subtitle settings"
-msgstr "Subtitle settings"
+msgstr "Çékirina Bin nivisi"
 
 #, fuzzy
 msgid "Subtitle show/hide..."
@@ -8708,7 +8713,7 @@ msgid "Sun"
 msgstr "Sun"
 
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "Bazaar"
 
 msgid ""
 "Sundtek - hardware blind scan in progress.\n"
@@ -8829,7 +8834,7 @@ msgid "Syrian Arab Republic"
 msgstr ""
 
 msgid "System"
-msgstr "System"
+msgstr "Systemé wi"
 
 msgid "System & Modulation"
 msgstr ""
@@ -8852,11 +8857,7 @@ msgstr ""
 
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 msgid "TRANSLATOR_INFO"
-msgstr ""
-"This translation is offered to you courtesy of:\n"
-"the OpenPLi team\n"
-"For corrections please email us on:\n"
-"translators@openpli.org"
+msgstr "TRANSLATOR_INFO"
 
 msgid "TS file is too large for ISO9660 level 1!"
 msgstr "TS file is too large for ISO9660 level 1!"
@@ -9348,7 +9349,7 @@ msgid "Thumbnails"
 msgstr "Thumbnails"
 
 msgid "Thursday"
-msgstr "Thursday"
+msgstr "Péncşem"
 
 msgid "Time"
 msgstr "Time"
@@ -9361,14 +9362,14 @@ msgstr ""
 
 #, fuzzy
 msgid "Time zone"
-msgstr "Timezone"
+msgstr "Wextu Zeman"
 
 #, fuzzy
 msgid "Time zone area"
-msgstr "Timezone"
+msgstr "Wextu Zeman"
 
 msgid "Timer"
-msgstr "Timer"
+msgstr "Vext"
 
 msgid "Timer Overview"
 msgstr ""
@@ -9409,7 +9410,7 @@ msgstr "Timer type"
 
 #, fuzzy
 msgid "Timer:"
-msgstr "Timer"
+msgstr "Vext"
 
 msgid "Timeshift"
 msgstr "Timeshift"
@@ -9427,7 +9428,7 @@ msgid "Timeshift not possible!"
 msgstr "Timeshift not possible!"
 
 msgid "Timezone"
-msgstr "Timezone"
+msgstr "Wextu Zeman"
 
 msgid "Timor-Leste"
 msgstr ""
@@ -9535,7 +9536,7 @@ msgid "Translation:"
 msgstr "Translation:"
 
 msgid "Translations"
-msgstr "Translations"
+msgstr ""
 
 msgid "Transmission mode"
 msgstr "Transmission mode"
@@ -9570,7 +9571,7 @@ msgid "Tue"
 msgstr "Tue"
 
 msgid "Tuesday"
-msgstr "Tuesday"
+msgstr "Duşem"
 
 msgid "Tune"
 msgstr "Tune"
@@ -9588,7 +9589,7 @@ msgid "Tuner Configuration"
 msgstr ""
 
 msgid "Tuner configuration"
-msgstr "Tuner configuration"
+msgstr "Çékirina Tuner "
 
 msgid "Tuner is not supported"
 msgstr ""
@@ -9779,7 +9780,7 @@ msgstr "Unsupported"
 
 #, fuzzy
 msgid "Unzipping Image"
-msgstr "Downloading"
+msgstr "Girédya"
 
 msgid "Update"
 msgstr "Update"
@@ -9794,8 +9795,9 @@ msgstr "Update and ask to reboot"
 msgid "Update and reboot (recommended)"
 msgstr "Update and reboot (recommended)"
 
+#, fuzzy
 msgid "Update bookmarks"
-msgstr "Update bookmarks"
+msgstr "Automatic Légerin"
 
 msgid "Update channel list only"
 msgstr "Update channel list only"
@@ -9966,7 +9968,7 @@ msgid "User defined transponder"
 msgstr ""
 
 msgid "User interface"
-msgstr "User interface"
+msgstr "Çékirina te"
 
 #, python-format
 msgid "Using LNB %d"
@@ -10248,7 +10250,7 @@ msgid "Wed"
 msgstr "Wed"
 
 msgid "Wednesday"
-msgstr "Wednesday"
+msgstr "Çarşem"
 
 msgid "Weekday"
 msgstr "Weekday"
@@ -10312,7 +10314,7 @@ msgid "When enabled enigma2 will load unlinked userbouquets. This means that use
 msgstr ""
 
 msgid "When enabled the Picture in Picture window can be closed with 'exit' button."
-msgstr "When enabled the Picture in Picture window can be closed with 'exit' button."
+msgstr ""
 
 msgid "When enabled the arrow buttons around the OK button will follow the 'neutrino' style zap controls instead of the enigma2 style."
 msgstr ""
@@ -10384,7 +10386,7 @@ msgid "When enabled, a recording is allowed to interrupt live tv, when there are
 msgstr "When enabled, a recording is allowed to interrupt live tv, when there are no free tuners."
 
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
-msgstr "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
+msgstr ""
 
 msgid "When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off."
 msgstr ""
@@ -10414,7 +10416,7 @@ msgid "When enabled, error messages related to zapping will not be shown."
 msgstr "When enabled, error messages related to zapping will not be shown."
 
 msgid "When enabled, external subtitles will be always turned on for playback movie."
-msgstr "When enabled, external subtitles will be always turned on for playback movie."
+msgstr ""
 
 msgid "When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available."
 msgstr "When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available."
@@ -10432,7 +10434,7 @@ msgid "When enabled, http streams are descrambled on the server side. The (remot
 msgstr ""
 
 msgid "When enabled, it is possible to leave the movie player with exit."
-msgstr "When enabled, it is possible to leave the movie player with exit."
+msgstr ""
 
 #, fuzzy
 msgid "When enabled, it will automatically play to the last saved radio service when switching to radio mode."
@@ -10443,7 +10445,7 @@ msgstr "When enabled, measure power consumption to detect when the rotor stops t
 
 #, fuzzy
 msgid "When enabled, number markers will be hidden."
-msgstr "When enabled, number markers will be hiden."
+msgstr "When enabled, error messages related to zapping will not be shown."
 
 msgid "When enabled, reformat subtitles to match the width of the screen."
 msgstr ""
@@ -10506,7 +10508,7 @@ msgid "When enabled, this setting has more weight than 'Preferred tuner'."
 msgstr ""
 
 msgid "When enabled, timeshift starts automatically in background after specified time."
-msgstr "When enabled, timeshift starts automatically in background after specified time."
+msgstr ""
 
 msgid "When enabled, use DHCP for the IP configuration."
 msgstr "When enabled, use DHCP for the IP configuration."
@@ -10564,7 +10566,7 @@ msgid "With errors:"
 msgstr ""
 
 msgid "With popup"
-msgstr "With popup"
+msgstr ""
 
 #, fuzzy
 msgid "With this option you can switch on the display during operation."
@@ -10580,7 +10582,7 @@ msgid "With this option you can switch the LED color or deactivate the LED."
 msgstr ""
 
 msgid "Without popup"
-msgstr "Without popup"
+msgstr ""
 
 #, fuzzy
 msgid "Wizard setup"
@@ -10967,7 +10969,7 @@ msgid "alphabetical"
 msgstr ""
 
 msgid "alternative"
-msgstr "alternative"
+msgstr ""
 
 msgid "always"
 msgstr ""
@@ -11301,7 +11303,7 @@ msgstr "horizontal"
 
 #, fuzzy
 msgid "in menu and plugins"
-msgstr "Download plugins"
+msgstr "Dayni Girédayi"
 
 #, fuzzy
 msgid "in menu only"
@@ -11665,7 +11667,7 @@ msgid "serious/classical/religious/historical movie/drama"
 msgstr "serious/classical/religious/historical movie/drama"
 
 msgid "service off-air"
-msgstr "service off-air"
+msgstr ""
 
 msgid "show DVD main menu"
 msgstr "show DVD main menu"
@@ -11914,8 +11916,8 @@ msgstr "wireless network interface"
 #, python-format
 msgid "with %d error"
 msgid_plural "with %d errors"
-msgstr[0] "with %d error"
-msgstr[1] "with %d errors"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "with errors"
 msgstr ""
@@ -11948,7 +11950,7 @@ msgid "zap"
 msgstr "zap"
 
 msgid "zap and record"
-msgstr "zap and record"
+msgstr ""
 
 msgid "zapped"
 msgstr "zapped"
