@@ -1,1 +1,1 @@
-# Enigma2-Team-Nonsolosat
+# Enigma2-NONSOLOSAT-TEAM
